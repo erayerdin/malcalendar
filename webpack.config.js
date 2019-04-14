@@ -8,6 +8,7 @@ const bannerArray = [
   '@description Adding calendar button to MyAnimeList anime page to easily add anime to Google Calendar.',
   '@author Eray Erdin',
   '@source https://github.com/erayerdin/malcalendar',
+  '@license MIT',
   '@updateURL https://raw.githubusercontent.com/erayerdin/malcalendar/master/dist/malcalendar.user.js',
   '@support https://github.com/erayerdin/malcalendar/issues',
   '@match https://myanimelist.net/anime/*',
