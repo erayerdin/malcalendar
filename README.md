@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/version-0.1.0-blue.svg?style=flat-square)
 [![](https://img.shields.io/badge/download-openuserjs-green.svg?style=flat-square)][openuserjs_url]
 
-[openuserjs_url]: https://openuserjs.org/scripts/erayerdin/malcalendar
+[openuserjs_url]: https://openuserjs.org/scripts/erayerdin/MyAnimeList_Add_to_Calendar
 
 malcalendar is a userscript to add MyAnimeList anime entries to Google Calendar.
 
